@@ -148,7 +148,7 @@ Click Run ▶ in Android Studio.
 
 Use:
 
-Username: Your first name (e.g., Manish)
+Username: Your first name (e.g., Curtis)
 
 Password: Your student ID (e.g., 12345678)
 
